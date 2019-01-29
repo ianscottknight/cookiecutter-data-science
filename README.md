@@ -6,11 +6,11 @@ This is my custom extension of the pre-existing cookiecutter-data-science templa
 * AWS syncing of data from/to designated S3 buckets
 * Dataset creation script that automatically runs a pipeline given (1) an ordered list of scripts (should be placed in /src/data/scripts) and (2) their corresponding optional arguments for the main function.  
 * Autoatic installation of important data science module in Python, including:
-** Numpy
-** Scipy
-** Matplotlib
-** OpenCV
-** PyTorch
+* * Numpy
+* * Scipy
+* * Matplotlib
+* * OpenCV
+* * PyTorch
 
 
 #### [Project homepage](http://drivendata.github.io/cookiecutter-data-science/)
